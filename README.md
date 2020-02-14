@@ -4,4 +4,4 @@
 
 ## Block Diagram:
 
-![Image description](link-to-image)
+![Block Diagram](https://github.com/MonkHelios/Medium-voltage-adjustable-reverse-sawtooth-generator/blob/master/Images/Block%20Diagram.jpg)
