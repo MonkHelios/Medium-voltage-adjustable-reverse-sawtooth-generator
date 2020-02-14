@@ -4,3 +4,4 @@
 
 ## Block Diagram:
 
+![Image description](link-to-image)
