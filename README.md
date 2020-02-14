@@ -5,3 +5,13 @@
 ## Block Diagram:
 
 ![Block Diagram](https://github.com/MonkHelios/Medium-voltage-adjustable-reverse-sawtooth-generator/blob/master/Images/Block%20Diagram.jpg)
+
+## Schematic Diagram:
+
+![Schematic Diagram](https://github.com/MonkHelios/Medium-voltage-adjustable-reverse-sawtooth-generator/blob/master/Images/Schematic.jpg)
+
+### Frequency:
+`Rounghly from 10 KHz to 100KHz`
+
+### Magnitude:
+`50 V peak to peak`
