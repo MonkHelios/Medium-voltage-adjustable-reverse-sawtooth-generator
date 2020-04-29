@@ -8,7 +8,12 @@
 
 ## Schematic Diagram:
 
+### Hand drawn 
+
 ![Schematic Diagram](https://github.com/MonkHelios/Medium-voltage-adjustable-reverse-sawtooth-generator/blob/master/Images/Schematic.jpg)
+
+### Altium Designer Schematic
+
 ![Altium Schematic](https://github.com/MonkHelios/Medium-voltage-adjustable-reverse-sawtooth-generator/blob/master/Images/Schematic_altium.jpg)
 
 ### Frequency:
