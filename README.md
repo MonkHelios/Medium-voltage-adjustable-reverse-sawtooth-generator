@@ -9,6 +9,7 @@
 ## Schematic Diagram:
 
 ![Schematic Diagram](https://github.com/MonkHelios/Medium-voltage-adjustable-reverse-sawtooth-generator/blob/master/Images/Schematic.jpg)
+![Altium Schematic](https://github.com/MonkHelios/Medium-voltage-adjustable-reverse-sawtooth-generator/blob/master/Images/Schematic_altium.jpg)
 
 ### Frequency:
 `Rounghly from 10 KHz to 100KHz`
